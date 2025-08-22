@@ -1,9 +1,5 @@
 {
   "aliases" : {
-    "mcs-jar-snapshot" : {
-      "script-ref" : "mcs_jar_snapshot.java",
-      "description" : "Maven Central Search"
-    },
     "mcs-snapshot" : {
       "script-ref" : "mcs_snapshot.java",
       "description" : "Maven Central Search"
