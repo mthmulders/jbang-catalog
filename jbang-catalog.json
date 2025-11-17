@@ -7,6 +7,10 @@
     "mcs" : {
       "script-ref" : "mcs.java",
       "description" : "Maven Central Search"
+    },
+    "mcs-snapshot-snapshot" : {
+      "script-ref" : "mcs_snapshot_snapshot.java",
+      "description" : "Maven Central Search"
     }
   }
 }
