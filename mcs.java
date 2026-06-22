@@ -1,6 +1,6 @@
 //usr/bin/env jbang "$0" "$@" ; exit $?
 //JAVA 25+
-//DEPS it.mulders:mcs:0.10.0
+//DEPS it.mulders:mcs:0.10.1
 // Generated with JReleaser 1.24.0
 
 public class mcs {
