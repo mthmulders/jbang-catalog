@@ -1,7 +1,7 @@
 //usr/bin/env jbang "$0" "$@" ; exit $?
 //JAVA 25+
-//DEPS it.mulders:mcs:0.11.1
-// Generated with JReleaser 1.25.0
+//DEPS it.mulders:mcs:0.11.2
+// Generated with JReleaser 1.26.0
 
 public class mcs {
     public static void main(String... args) throws Exception {
